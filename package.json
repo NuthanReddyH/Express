@@ -1,0 +1,25 @@
+{
+  "name": "expressstarter",
+  "version": "1.0.0",
+  "description": "express project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuthanReddyH/ExpressStarter.git"
+  },
+  "author": "Nuthan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NuthanReddyH/ExpressStarter/issues"
+  },
+  "homepage": "https://github.com/NuthanReddyH/ExpressStarter#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-validator": "^5.3.1"
+  }
+}
